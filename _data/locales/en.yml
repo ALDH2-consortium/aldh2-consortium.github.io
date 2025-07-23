@@ -6,6 +6,7 @@
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
+  categories: Protocol
   #tags: Contact Information
   archives: Cohorts
   about: About

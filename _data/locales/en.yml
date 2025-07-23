@@ -2,11 +2,6 @@
 
 # ----- Commons label -----
 
-layout:
-  post: Post
-  about: About
-  tag: Tag
-
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
@@ -14,4 +9,10 @@ tabs:
   tags: Contact Information
   archives: Cohorts
   about: About
+
+layout:
+  home: Home
+  about: About
+  archives: Cohorts
+  tags: Contact Information
 

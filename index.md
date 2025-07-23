@@ -4,7 +4,7 @@ title: Welcome to the ALDH2 consortium
 ---
 
 
-<img src="/assets/MRCIEU_logo.png.svg" alt="ALDH2 Consortium Logo" style="max-width: 300px; display: block; margin: 0 auto;">
+<img src="/assets/MRCIEU_logo.png.svg" alt="ALDH2 Consortium Logo" style="max-width: 700px; display: block; margin: 0 auto;">
 
 # ALDH2 Consortium
 Welcome to the ALDH2 Consortium website. This consortium is being conducted by the MRC IEU at the University of Bristol, led by Prof. George Davey Smith. Briefly, the aim of this consortium is to address key questions related to ALDH2, specifically:

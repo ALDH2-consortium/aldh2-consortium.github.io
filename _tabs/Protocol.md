@@ -1,6 +1,6 @@
 ---
 layout: categories
-icon: fas fa-stream
+icon: fas fa-archive
 order: 2
 ---
 

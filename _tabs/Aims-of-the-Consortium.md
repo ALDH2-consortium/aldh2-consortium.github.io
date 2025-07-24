@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 ## Three Broad Aims:
 ### Aim 1: Examine the potential causal effect of maternal alcohol use during pregnancy on risk of pregnancy complications and adverse offspring health using Mendelian randomization (MR).

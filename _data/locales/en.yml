@@ -6,9 +6,9 @@
 tabs:
   # format: <filename_without_extension>: <value>
   home: Home
-  categories: Protocol
+  categories: Consortium Protocol
   #tags: Contact Information
-  archives: Cohorts
+  archives: Interested to join?
   about: About the ALDH2 Consortium
 
 layout:

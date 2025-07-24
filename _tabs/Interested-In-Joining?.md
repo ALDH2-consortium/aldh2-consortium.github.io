@@ -22,13 +22,6 @@ If you are a researcher working with, or leading, a cohort in East or Southeast 
 
 ### Aim 3: Investigate the role of *ALDH2* genotype on risk (and if available, severity) of infectious disease. 
 
+![Desktop View](/assets/Aim3_List.png){: width="700" height="400" }
+
 **Necessary data: *ALDH2* genotype on any cohort participants with infection data are required**. For a list of infectious diseases and severity we are considering, please see below. However, we are also considering other diseases, so please do check with us if they could be included.
-________________________________________________________________
-|         Outcomes            |            Examples            |
-________________________________________________________________
-| Infectious Disease Presence | Tuberculosis                   |
-|                             | Hepatitis C                    |
-|                             | Hepatitis B                    |
-| Severity of Disease         | Hospitalization due to disease |
-|                             | Mortality due to disease       |
-________________________________________________________________

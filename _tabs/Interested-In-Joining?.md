@@ -14,7 +14,7 @@ If you are a researcher working with, or leading, a cohort in East or Southeast 
 
 **Necessary Data: Only maternal *ALDH2* genotype data is necessary, along with 1+ phenotype below.** 
 
-![Desktop View](/assets/img/sample/Aim1_List.png){: width="700" height="400" }
+![Desktop View](/assets/Aim1_List.png){: width="700" height="400" }
 
 ### Aim 2: Investigate the interaction between maternal alcohol use during pregnancy and breastfeeding, and *ALDH2* genotype (maternal and child), on pregnancy and offspring outcomes. 
 

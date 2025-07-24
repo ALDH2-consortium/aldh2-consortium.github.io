@@ -13,13 +13,8 @@ If you are a researcher working with, or leading, a cohort in East or Southeast 
 ### Aim 1: Examine the potential *causal* effect of maternal alcohol use during pregnancy on risk of pregnancy complications and adverse offspring health using Mendelian randomization. 
 
 **Necessary Data: Only maternal *ALDH2* genotype data is necessary, along with 1+ phenotype below.** 
-_______________________________________________________________________________________________________________________________________________
-|         Outcomes                             |                                         Examples                                             |
-_______________________________________________________________________________________________________________________________________________
-| Delivery Outcomes and Pregancy Complications | Caesarean section, miscarriage, preeclampsia, placental abruption, stillbirth, preterm birth |    
-| Offspring Physical Development (0-5 years)   | Weight, height, vision, hearing                                                              |
-| Offspring Mental Health (0-5 years)          | Validated neurodevelopment measure (e.g., Ages and Stages [ASQ], Child Behaviour Checklist)  |    |                                              | and/or neurodevelopmental conditions (Autism and/or ADHD).                                   |
-_______________________________________________________________________________________________________________________________________________
+
+![Desktop View](/assets/img/sample/Aim1_List.png){: width="700" height="400" }
 
 ### Aim 2: Investigate the interaction between maternal alcohol use during pregnancy and breastfeeding, and *ALDH2* genotype (maternal and child), on pregnancy and offspring outcomes. 
 

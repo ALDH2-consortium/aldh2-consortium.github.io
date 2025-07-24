@@ -18,7 +18,7 @@ Welcome to the *ALDH2* Consortium website. This consortium is being conducted by
 **(3) Investigate the role of *ALDH2* genotype on risk and severity of infectious diseases.**
 
 ## Current status
-To acheive these aims, we are inviting researchers working with cohorts in East and Southeast Asia to join the Consortium. This Consortium, and it's specific aims and details, are still being established. As soon as a draft protocol is ready, this will be made available here. In the meantime, for some more information please visit the 'About the Consortium' tab on this page.
+To acheive these aims, we are inviting researchers working with cohorts in East and Southeast Asia to join the Consortium. This Consortium, and it's specific aims and details, are still being established. As soon as a draft protocol is ready, this will be made available here. In the meantime, for some more information please visit the 'About the ALDH2 Consortium' tab on this page.
 
 ## Contact Information
 For further information, or if you are interested in contributing to this Consortium, please contact chloe.slaney@bristol.ac.uk.

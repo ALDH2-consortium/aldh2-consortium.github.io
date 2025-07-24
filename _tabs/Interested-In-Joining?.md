@@ -13,7 +13,7 @@ If you are a researcher working with, or leading, a cohort in East or Southeast 
 
 **Necessary Data: Only maternal *ALDH2* genotype data is necessary, along with 1+ phenotype below.** 
 
-![Desktop View](/assets/Aim1_List.jpg){: width="400" height="200" }
+![Desktop View](/assets/Aim1_List.jpg){: width="600" height="300" }
 
 ### Aim 2: Investigate the interaction between maternal alcohol use during pregnancy and breastfeeding, and *ALDH2* genotype (maternal and child), on pregnancy and offspring outcomes. 
 
@@ -21,6 +21,6 @@ If you are a researcher working with, or leading, a cohort in East or Southeast 
 
 ### Aim 3: Investigate the role of *ALDH2* genotype on risk (and if available, severity) of infectious disease. 
 
-![Desktop View](/assets/Aim3_List.jpg){: width="400" height="200" }
+![Desktop View](/assets/Aim3_List.jpg){: width="600" height="300" }
 
 **Necessary data: *ALDH2* genotype on any cohort participants with infection data are required**. For a list of infectious diseases and severity we are considering, please see below. However, we are also considering other diseases, so please do check with us if they could be included.

@@ -13,13 +13,13 @@ If you are a researcher working with, or leading, a cohort in East or Southeast 
 ### AIM 1: Examine the potential *causal* effect of maternal alcohol use during pregnancy on risk of pregnancy complications and adverse offspring health using Mendelian randomization. 
 
 **Necessary Data: Only maternal *ALDH2* genotype data is necessary, along with 1+ phenotype below.** 
-
-```{r echo = FALSE, results = TRUE}
-Outcomes  <- c("`Delivery Outcomes and Pregnancy Complications`","`Offspring Physical Development (0-5 years)`","`Offspring Mental Health")
-Examples <- c( "Caesarean section, miscarriage, preeclampsia, placental abruption, stillbirth, preterm birth", "Weight, height, vision, hearing", "Validated measures of neurodevelopment (e.g., Ages and Stages Questionnaire, Child Behaviour Checklist) and/or neurodevelopmental conditions (Autism, ADHD) ")
-Q1 <- data.frame(Outcomes, Examples)
-knitr::kable(Q1)
-```
+_______________________________________________________________________________________________________________________________________________
+|         Outcomes                             |                                         Examples                                             |
+_______________________________________________________________________________________________________________________________________________
+| Delivery Outcomes and Pregancy Complications | Caesarean section, miscarriage, preeclampsia, placental abruption, stillbirth, preterm birth |    
+| Offspring Physical Development (0-5 years)   | Weight, height, vision, hearing                                                              |
+| Offspring Mental Health (0-5 years)          | Validated neurodevelopment measure (e.g., Ages and Stages [ASQ], Child Behaviour Checklist)  |    |                                              | and/or neurodevelopmental conditions (Autism and/or ADHD).                                   |
+_______________________________________________________________________________________________________________________________________________
 
 ### AIM 2: Investigate the interaction between maternal alcohol use during pregnancy and breastfeeding, and *ALDH2* genotype (maternal and child), on pregnancy and offspring outcomes. 
 
@@ -28,11 +28,12 @@ knitr::kable(Q1)
 ### AIM 3: Investigate the role of *ALDH2* genotype on risk (and if available, severity) of infectious disease. 
 
 **Necessary data: *ALDH2* genotype on any cohort participants with infection data are required**. For a list of infectious diseases and severity we are considering, please see below. However, we are also considering other diseases, so please do check with us if they could be included.
-
-```{r echo = FALSE, results = TRUE}
-Outcomes  <- c("`Infectious Disease Presence`","`Severity of Disease`")
-Examples <- c( "Tuberculosis, Hepatitis B, Hepatitis C", "Hospitalization due to disease, death due to disease")
-Q3 <- data.frame(Outcomes, Examples)
-knitr::kable(Q3)
-```
-
+________________________________________________________________
+|         Outcomes            |            Examples            |
+________________________________________________________________
+| Infectious Disease Presence | Tuberculosis                   |
+|                             | Hepatitis C                    |
+|                             | Hepatitis B                    |
+| Severity of Disease         | Hospitalization due to disease |
+|                             | Mortality due to disease       |
+________________________________________________________________

@@ -19,7 +19,7 @@ If you are a researcher working with, or leading, a cohort in East or Southeast 
 
 ### Aim 3: Investigate the role of *ALDH2* genotype on risk (and if available, severity) of infectious disease. 
 
-**Necessary data: *ALDH2* genotype on any cohort participants with infection data are required**. For a list of infectious diseases and severity we are considering, please see below. However, we are also considering other diseases, so please do check with us if they could be included.
+**Necessary data: *ALDH2* genotype on any cohort participants with infection data are required**. For a list of infectious diseases and severity we are considering, please see below. However, we are also considering other diseases, so please do check with us if they could be included!
 
 ![Desktop View](/assets/Aim3.jpg){: width="700" height="400" }
 

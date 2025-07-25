@@ -1,5 +1,5 @@
 ---
-icon: fas fa-info-circle
+icon: fas fa-user-plus
 order: 3
 ---
 If you are a researcher working with, or leading, a cohort in East or Southeast Asia (e.g., Japan, China, Taiwan, Korea, Cambodia) and you are interested in joining this Consortium, please email chloe.slaney@bristol.ac.uk. 

@@ -12,7 +12,7 @@ Welcome to the *ALDH2* Consortium website. This consortium is being conducted by
 ## Aims and Objectives:
 1. Examine the potential causal effect of maternal alcohol use during pregnancy on risk of pregnancy complications and adverse offspring health using Mendelian randomization. 
 
-2. Investigate the interaction between maternal alcohol use during pregnancy and breastfeeding, and *ALDH2* genotype *(maternal and child)*, on pregnancy and offspring outcomes. 
+2. Investigate the interaction between maternal alcohol use during pregnancy and breastfeeding, and *ALDH2* genotype (maternal and child), on pregnancy and offspring outcomes. 
 
 3. Investigate the role of *ALDH2* genotype on risk and severity of infectious diseases.
 

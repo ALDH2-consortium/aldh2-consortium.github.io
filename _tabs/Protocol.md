@@ -1,7 +1,9 @@
 ---
 layout: categories
-icon: fas fa-archive
+icon: fas-fa-stream
 order: 2
 ---
 
-# To be added... 
+# When available, a protocol will be made available here.
+
+

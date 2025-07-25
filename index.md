@@ -28,3 +28,7 @@ Th core research group comprises: Dr Chloe Slaney and Professor George Davey Smi
 ## Contact Information
 For further information, or if you are interested in contributing to this Consortium, please contact chloe.slaney@bristol.ac.uk.
 
+## References
+Li, H., Borinskaya, S., Yoshimura, K., Kal’ina, N., Marusin, A., Stepanov, V. A., Qin, Z., Khaliq, S., Lee, M. Y., Yang, Y., Mohyuddin, A., Gurwitz, D., Mehdi, S. Q., Rogaev, E., Jin, L., Yankovsky, N. K., Kidd, J. R., & Kidd, K. K. (2009). Refined geographic distribution of the oriental ALDH2*504Lys (nee 487Lys) variant. Annals of Human Genetics, 73(Pt 3), 335–345. https://doi.org/10.1111/J.1469-1809.2009.00517.X
+
+Popova, S., Lange, S., Probst, C., Gmel, G., & Rehm, J. (2017). Estimation of national, regional, and global prevalence of alcohol use during pregnancy and fetal alcohol syndrome: a systematic review and meta-analysis. The Lancet Global Health, 5(3), e290–e299. https://doi.org/10.1016/S2214-109X(17)30021-9

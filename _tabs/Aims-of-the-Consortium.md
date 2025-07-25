@@ -3,7 +3,6 @@
 icon: fas fa-info-circle
 order: 1
 ---
-## Key Aims:
 ### Aim 1: Examine the potential causal effect of maternal alcohol use during pregnancy on risk of pregnancy complications and adverse offspring health using Mendelian randomization (MR).
 Determining whether maternal alcohol use causes adverse offspring outcomes is challenging due to potential confounding (e.g., maternal smoking and diet). MR can overcome this challenge by using genetic variants robustly associated with alcohol use as a proxy. Maternal *ALDH2\*2* homozygosity provides an ideal proxy for “no drinking” (as few women with this genotype will consume alcohol). If alcohol is causal, we would expect reduced risk of adverse offspring outcomes in ALDH2 homozygote mothers, compared with *ALDH2\*1* homozygotes.
 

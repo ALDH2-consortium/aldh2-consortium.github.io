@@ -1,5 +1,5 @@
 ---
-icon: fas fa-stream
+icon: fas fa-book
 order: 2
 ---
 

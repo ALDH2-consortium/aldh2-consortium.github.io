@@ -7,7 +7,7 @@ title: Welcome to the ALDH2 Consortium
 <img src="/assets/MRCIEU_logo.png.svg" alt="ALDH2 Consortium Logo" style="max-width: 700px; display: block; margin: 0 auto;">
 
 # ALDH2 Consortium
-Welcome to the *ALDH2* Consortium website. This consortium is being conducted by researchers at the MRC IEU at the University of Bristol. Briefly, the aim of this consortium is to investigate three key questions related to *ALDH2*.
+Welcome to the ALDH2 Consortium website. This consortium is being conducted by researchers at the MRC IEU at the University of Bristol. Briefly, the aim of this consortium is to investigate three key questions related to *ALDH2*.
 
 ## Aims and Objectives:
 1. Examine the potential causal effect of maternal alcohol use during pregnancy on risk of pregnancy complications and adverse offspring health using Mendelian randomization. 

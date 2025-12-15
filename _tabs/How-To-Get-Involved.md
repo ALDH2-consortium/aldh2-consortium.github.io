@@ -2,7 +2,7 @@
 icon: fas fa-user-plus
 order: 3
 ---
-If you are a researcher working with, or leading, a cohort in East or Southeast Asia (e.g., Japan, China, Taiwan, Korea, Cambodia) and you are interested in joining this Consortium, please email chloe.slaney@bristol.ac.uk and kindly complete this form [this form](https://forms.office.com/e/Xgf2LNfqpu). A draft protocol and principles of collaboration are expected to be ready in ~ May/June 2026.
+If you are a researcher working with, or leading, a cohort in East or Southeast Asia (e.g., Japan, China, Taiwan, Korea, Cambodia) and you are interested in joining this Consortium, please email chloe.slaney@bristol.ac.uk and kindly complete [this expression of interest form](https://forms.office.com/e/Xgf2LNfqpu). A draft protocol and principles of collaboration are expected to be ready in ~ May/June 2026.
 
 **NOTE: To be involved, cohorts are required to have ALDH2 genotype data available *and* phenotype data for at least 1 of 3 key aims (listed below)**. 
 

@@ -23,7 +23,7 @@ Findings from this project could have critical public health implications as *AL
 To acheive these aims, we are inviting researchers working with East and Southeast Asian cohorts to join the Consortium. This Consortium, and it's specific aims and details, are still being established. As soon as a draft protocol is ready, this will be made available under the 'Protocol' tab. In the meantime, for some more information please visit the 'Consortium Aims' tab.
 
 ## Core Group
-The core research group comprises: Dr Chloe Slaney and Professor George Davey Smith. As this Consortium is currently being established, this group is likely to expand.
+The core research group comprises: Dr Chloe Slaney, Professor Natsuhiko Kumasaka, and Professor George Davey Smith. As this Consortium is currently being established, this group is likely to expand.
 
 ## Contact Information
 For further information, or if you are interested in contributing to this Consortium, please contact chloe.slaney@bristol.ac.uk.
